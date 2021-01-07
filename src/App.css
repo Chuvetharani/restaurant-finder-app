@@ -1,0 +1,37 @@
+body{
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background-image: linear-gradient(to right, #fa709a 0%, #fee140 100%);
+}
+h4 {
+  font-size: 35px;
+  font-weight: bolder;
+  background: linear-gradient(rgb(182, 19, 40), rgb(103, 9, 146));
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  text-align: center;
+}
+button {
+  height: 40px;
+  border-radius: 20px;
+  background: linear-gradient(darkred, navy);
+  outline: white;
+  color: #fff;
+  font-size: 20px;
+}
+b {
+  font-size: 20px;
+  background: linear-gradient(darkgreen, darkred);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  font-weight: bolder;
+}
+span {
+  color: darkgreen;
+  font-weight: bold;
+}
+.form-control{
+  width: 40% !important;
+}
+.alert-success, .alert-danger{
+  display: none;
+}
