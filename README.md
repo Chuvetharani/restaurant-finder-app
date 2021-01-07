@@ -1,2 +1,2 @@
 # restaurant-finder-app
-Created with CodeSandbox
+called Foodie's friend to show restaurant details
