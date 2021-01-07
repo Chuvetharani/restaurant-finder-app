@@ -56,7 +56,7 @@ class WebContent extends React.Component {
       	console.log("error");
       });	
         }
-         else if(name == " " || cityId == ""){
+         else if(name === " " || cityId === ""){
             this.setState({
               message:"Fill the required form field"
             })

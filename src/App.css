@@ -12,7 +12,8 @@ h4 {
 }
 button {
   height: 40px;
-  border-radius: 20px;
+  margin-top: 10px;
+  border-radius: 5px;
   background: linear-gradient(darkred, navy);
   outline: white;
   color: #fff;
